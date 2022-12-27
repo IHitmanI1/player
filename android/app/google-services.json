@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "99349547360",
+    "project_id": "playeronflutter",
+    "storage_bucket": "playeronflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99349547360:android:1471792dada2ca6cc13605",
+        "android_client_info": {
+          "package_name": "com.example.player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99349547360-srbi36m69skrpjaj2v0f1cjbs1k3q055.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdmiezuZDomto2fZ3i2EEfBvP3cJyE4k4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99349547360-srbi36m69skrpjaj2v0f1cjbs1k3q055.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
